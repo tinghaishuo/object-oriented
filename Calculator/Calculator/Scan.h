@@ -5,7 +5,8 @@
 using namespace std;
 class Scan
 {
-public:queue<string>ToStringQueue(const string&input);
-public:
-	Scan(){};
+	public:
+		queue<string>ToStringQueue(const string&input);
+	public:
+		Scan() {};
 };

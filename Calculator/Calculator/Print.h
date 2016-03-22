@@ -4,8 +4,8 @@
 using namespace std;
 class Print
 {
-public:
-	void PrintData(queue<string> output);
-public:
-	Print(){};
+	public:
+		void PrintData(queue<string> output);
+	public:
+		Print() {};
 };
